@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Theogene+%F0%9F%91%8B;Full-Stack+Developer;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Theogene+%F0%9F%91%8B;Full-Stack+Developer;Building+The+Future;Turning+Ideas+into+Reality;From+Kigali,+Coding+the+World+🇷🇼" alt="Typing SVG" />
 
 <!-- Banner wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" />
@@ -109,7 +109,7 @@ const theogene = {
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Quote Of The Day
 
 <div align="center">
 
